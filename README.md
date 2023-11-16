@@ -115,8 +115,7 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or pr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
+This project is licensed under the [MIT License](https://rem.mit-license.org/).
 
 Copyright © 2023 [Mahmoud Eid](https://github.com/Mado007).<br />
 `https://github.com/Mado007/dragon-guard` with the actual URL of your GitHub repository. Adjust the content as needed, and make sure to update the instructions and documentation based on the specific details of your project.
